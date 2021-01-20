@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#outer {
+  width: 1000px;
+  margin: 50px auto;
+  border: 1px solid pink;
+  padding: 5px;
+  background-color: palegreen;
+  text-align: center;
+}
